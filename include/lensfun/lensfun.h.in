@@ -660,8 +660,8 @@ C_TYPEDEF (struct, lfLensCalibDistortion)
  * image center), and \f$r_u\f$ refers to the undistorted, corrected radius.
  * See section \ref actualorder for further information.
  *
- * For a popular explanation of chromatic aberrations see
- * http://www.vanwalree.com/optics/chromatic.html
+ * For an explanation of chromatic aberrations see
+ * https://en.wikipedia.org/wiki/Chromatic_aberration
  */
 enum lfTCAModel
 {
